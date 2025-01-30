@@ -1,10 +1,12 @@
-<personData>
-<user xmlns:Rameezone="https://Rameezone.com/mynamespace" id="1">
+<personData
+ xmlns:Rameeztwo="https://Rameeztwo.com/mynamespace" 
+ xmlns:Rameezone="https://Rameezone.com/mynamespace">
+<user  id="1">
 <fname>Rameez</fname>
 <lname>Ahmed</lname>
 <email>syedrameezahmed24@gmail.com</email>
 </user>
-<user xmlns:Rameeztwo="https://Rameeztwo.com/mynamespace" id="2">
+<user id="2">
 <fname>Rameez</fname>
 <lname> Ali </lname>
 <email> zaidaliyt@gmail.com</email>
